@@ -48,10 +48,9 @@ I'm always open to networking and professional opportunities. Feel free to reach
 1. ⭐ Starred [openai/tiktoken](https://github.com/openai/tiktoken)<br>
 2. ⭐ Starred [DataExpert-io/data-engineer-handbook](https://github.com/DataExpert-io/data-engineer-handbook)<br>
 3. 🔱 Forked [joseortiztech/claude-api](https://github.com/joseortiztech/claude-api) from [platzi/claude-api](https://github.com/platzi/claude-api)<br>
-4. 🔱 Forked [joseortiztech/curso-prefect](https://github.com/joseortiztech/curso-prefect) from [alwaysindev/curso-prefect](https://github.com/alwaysindev/curso-prefect)<br>
 <!--RECENT_ACTIVITY:end-->
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Tuesday, August 11th, 2026, 1:56:31 PM
+Last Updated: Wednesday, August 12th, 2026, 12:45:24 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 
