@@ -45,13 +45,14 @@ I'm always open to networking and professional opportunities. Feel free to reach
 
 ### :zap: Actividad reciente
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [platzi/openai-api](https://github.com/platzi/openai-api)<br>
-2. ⭐ Starred [openai/tiktoken](https://github.com/openai/tiktoken)<br>
-3. ⭐ Starred [DataExpert-io/data-engineer-handbook](https://github.com/DataExpert-io/data-engineer-handbook)<br>
-4. 🔱 Forked [joseortiztech/claude-api](https://github.com/joseortiztech/claude-api) from [platzi/claude-api](https://github.com/platzi/claude-api)<br>
+1. ⭐ Starred [santifer/career-ops](https://github.com/santifer/career-ops)<br>
+2. ⭐ Starred [platzi/openai-api](https://github.com/platzi/openai-api)<br>
+3. ⭐ Starred [openai/tiktoken](https://github.com/openai/tiktoken)<br>
+4. ⭐ Starred [DataExpert-io/data-engineer-handbook](https://github.com/DataExpert-io/data-engineer-handbook)<br>
+5. 🔱 Forked [joseortiztech/claude-api](https://github.com/joseortiztech/claude-api) from [platzi/claude-api](https://github.com/platzi/claude-api)<br>
 <!--RECENT_ACTIVITY:end-->
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Monday, August 24th, 2026, 1:15:04 PM
+Last Updated: Tuesday, August 25th, 2026, 12:25:45 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 
