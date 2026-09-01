@@ -45,14 +45,13 @@ I'm always open to networking and professional opportunities. Feel free to reach
 
 ### :zap: Actividad reciente
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [santifer/career-ops](https://github.com/santifer/career-ops)<br>
+1. ⭐ Starred [career-ops-hq/career-ops](https://github.com/career-ops-hq/career-ops)<br>
 2. ⭐ Starred [platzi/openai-api](https://github.com/platzi/openai-api)<br>
 3. ⭐ Starred [openai/tiktoken](https://github.com/openai/tiktoken)<br>
 4. ⭐ Starred [DataExpert-io/data-engineer-handbook](https://github.com/DataExpert-io/data-engineer-handbook)<br>
-5. 🔱 Forked [joseortiztech/claude-api](https://github.com/joseortiztech/claude-api) from [platzi/claude-api](https://github.com/platzi/claude-api)<br>
 <!--RECENT_ACTIVITY:end-->
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Tuesday, September 1st, 2026, 2:07:17 AM
+Last Updated: Tuesday, September 1st, 2026, 3:35:39 PM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 
