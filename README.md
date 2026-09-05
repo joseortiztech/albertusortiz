@@ -47,10 +47,9 @@ I'm always open to networking and professional opportunities. Feel free to reach
 <!--RECENT_ACTIVITY:start-->
 1. ⭐ Starred [career-ops-hq/career-ops](https://github.com/career-ops-hq/career-ops)<br>
 2. ⭐ Starred [platzi/openai-api](https://github.com/platzi/openai-api)<br>
-3. ⭐ Starred [openai/tiktoken](https://github.com/openai/tiktoken)<br>
 <!--RECENT_ACTIVITY:end-->
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Friday, September 4th, 2026, 3:10:30 PM
+Last Updated: Saturday, September 5th, 2026, 1:29:10 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 
