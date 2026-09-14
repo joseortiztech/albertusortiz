@@ -45,11 +45,12 @@ I'm always open to networking and professional opportunities. Feel free to reach
 
 ### :zap: Actividad reciente
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [career-ops-hq/career-ops](https://github.com/career-ops-hq/career-ops)<br>
-2. ⭐ Starred [platzi/openai-api](https://github.com/platzi/openai-api)<br>
+1. ⭐ Starred [github/spec-kit](https://github.com/github/spec-kit)<br>
+2. ⭐ Starred [career-ops-hq/career-ops](https://github.com/career-ops-hq/career-ops)<br>
+3. ⭐ Starred [platzi/openai-api](https://github.com/platzi/openai-api)<br>
 <!--RECENT_ACTIVITY:end-->
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Monday, September 14th, 2026, 1:47:42 AM
+Last Updated: Monday, September 14th, 2026, 5:04:06 PM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 
