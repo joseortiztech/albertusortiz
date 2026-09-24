@@ -47,10 +47,9 @@ I'm always open to networking and professional opportunities. Feel free to reach
 <!--RECENT_ACTIVITY:start-->
 1. ⭐ Starred [Gentleman-Programming/gentle-ai](https://github.com/Gentleman-Programming/gentle-ai)<br>
 2. ⭐ Starred [github/spec-kit](https://github.com/github/spec-kit)<br>
-3. ⭐ Starred [career-ops-hq/career-ops](https://github.com/career-ops-hq/career-ops)<br>
 <!--RECENT_ACTIVITY:end-->
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Wednesday, September 23rd, 2026, 3:35:56 PM
+Last Updated: Thursday, September 24th, 2026, 1:42:50 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 
