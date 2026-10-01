@@ -45,11 +45,12 @@ I'm always open to networking and professional opportunities. Feel free to reach
 
 ### :zap: Actividad reciente
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [Gentleman-Programming/gentle-ai](https://github.com/Gentleman-Programming/gentle-ai)<br>
-2. ⭐ Starred [github/spec-kit](https://github.com/github/spec-kit)<br>
+1. ⭐ Starred [apify/apify-mcp-server](https://github.com/apify/apify-mcp-server)<br>
+2. ⭐ Starred [Gentleman-Programming/gentle-ai](https://github.com/Gentleman-Programming/gentle-ai)<br>
+3. ⭐ Starred [github/spec-kit](https://github.com/github/spec-kit)<br>
 <!--RECENT_ACTIVITY:end-->
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Thursday, October 1st, 2026, 2:32:29 AM
+Last Updated: Thursday, October 1st, 2026, 5:31:47 PM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 
